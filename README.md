@@ -1,3 +1,4 @@
 # tutorial-github
-This is basic github tutorial repository.
-Author Syed Rizvi
+This is basic github tutorial repository
+<br>
+Author - Syed Rizvi
